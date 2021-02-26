@@ -1,0 +1,1 @@
+ansiblePlaybook installation: 'ansible', inventory: 'project33/dev34', playbook: 'project33/deployweb.yml', vaultCredentialsId: 'ansible_vault'
